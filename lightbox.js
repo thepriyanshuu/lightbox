@@ -20,7 +20,6 @@ function PopupInit(target){
             document.getElementById('mainPopImage').src = this.src;
             document.getElementById('popup').style.display = 'block';
             checkArrow();
-
         })
     }
 
